@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Pranavi S
+### Register Number: 212225040311
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/e1b5c89e-44a4-4597-9eea-ed175151b5ae" />
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
